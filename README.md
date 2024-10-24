@@ -39,12 +39,12 @@ Background: `#2E2F36` <br>
 
 Run backend and after it run this project. Instructions down below.
 
-1. `git clone https://github.com/codinginrainbows/compass-nest` to clone the backend
-2. `cd compass-nest` to access the backend directory
+1. `git clone https://github.com/codinginrainbows/compassuol-stepup-BACKEND` to clone the backend
+2. `cd compassuol-stepup-BACKEND` to access the backend directory
 3. `npm i` to install backend dependencies
 4. `npm run start:dev` to run the backend
-5. `git clone https://github.com/codinginrainbows/compass-react/` to clone the project
-6. `cd compass-react` to access the project directory
+5. `git clone https://github.com/codinginrainbows/compassuol-stepup-FRONTEND/` to clone the project
+6. `cd compassuol-stepup-FRONTEND` to access the project directory
 7. `git checkout production` to access the most updated branch
 8. `yarn` to install project dependencies
 9. `yarn start` to run the project
